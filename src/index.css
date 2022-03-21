@@ -1,0 +1,14 @@
+body,
+h1 {
+  margin: 0;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+h1,
+h2,
+.accent {
+  font-family: "Caveat", cursive;
+}
